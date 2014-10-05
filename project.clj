@@ -1,4 +1,4 @@
-(defproject lein-jupiter "0.1.0-SNAPSHOT"
+(defproject lein-jupiter "0.1.0"
   :description "A Leiningen plugin to create empty SQL migration files"
   :url "https://github.com/tomekw/lein-jupiter"
   :license {:name "Eclipse Public License"

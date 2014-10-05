@@ -12,7 +12,7 @@ This should change in the future.
 
 ## Usage
 
-Put `[lein-jupiter "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your `project.clj`.
+Put `[lein-jupiter "0.1.0"]` into the `:plugins` vector of your `project.clj`.
 
 `lein-jupiter` by default creates a migration file in the `src/migrations` directory:
 
